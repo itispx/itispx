@@ -29,7 +29,8 @@
 <p float="left">
   <img height="60" alt="NodeJS" src="assets/imgs/nodejs.svg"/>
   <img style="margin-left:9px" height="60" alt="Firebase" src="assets/imgs/firebase.svg"/>
-  <img style="margin-left:9px" height="60" alt="Google Cloud" src="assets/imgs/google-cloud.svg"/>
+ <img style="margin-left:9px" height="60" alt="Google Cloud" src="assets/imgs/google-cloud.svg"/>
+ <img style="margin-left:9px" height="60" alt="Spring" src="assets/imgs/spring.svg"/>
 </p>
 
 ### Tools
