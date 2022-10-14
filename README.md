@@ -2,76 +2,88 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itispx&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Languagues
+<table>
 
-<p float="left">
-  <img height="60" alt="JavaScript" src="assets/imgs/javascript.svg"/>
-  <img style="margin-left:9px" height="60" alt="Java" src="assets/imgs/java.svg"/> 
-</p>
+<tr align="center">
+<td>Typescript</td>
+<td>Javascript</td>
+<td>Java</td>
+<td>React</td>
+<td>React Native</td>
+<td>Expo</td>
+</tr>
 
-### Databases
+<tr align="center">
+<td height="50px"><img width="32px" src="./assets/imgs/typescript.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/javascript.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/java.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/react.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/react.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/expo.svg"></td>
+</tr>
 
-<p float="left">
-  <img height="60" alt="mongoDB" src="assets/imgs/mongoDB.png"/>
-  <img style="margin-left:9px" height="60" alt="MySQL" src="assets/imgs/mysql.svg"/>
-</p>
+<tr align="center">
+<td>Android</td>
+<td>Node.js</td>
+<td>MongoDB</td>
+<td>MySQL</td>
+<td>Firebase</td>
+<td>Spring</td>
+</tr>
 
-### Front-end
+<tr align="center">
+<td height="50px"><img width="32px" src="./assets/imgs/android.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/nodejs.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/mongoDB.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/mysql.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/firebase.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/spring.svg"></td>
+</tr>
 
-<p float="left">
-  <img height="60" alt="React" src="assets/imgs/react.svg"/>
-  <img style="margin-left:9px" height="60" alt="React-Native" src="assets/imgs/react-native.png"/>
-  <img style="margin-left:9px" height="60" alt="Android" src="assets/imgs/android.svg"/>
-</p>
+<tr align="center">
+<td>Git</td>
+<td>ESLint</td>
+<td>Redux</td>
+<td>Express</td>
+<td>Next.js</td>
+<td>Sass</td>
+</tr>
 
-### Back-end
+<tr align="center">
+<td height="50px"><img width="32px" src="./assets/imgs/git.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/eslint.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/redux.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/express.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/nextjs.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/sass.svg"></td>
+</tr>
 
-<p float="left">
-  <img height="60" alt="NodeJS" src="assets/imgs/nodejs.svg"/>
-  <img style="margin-left:9px" height="60" alt="Firebase" src="assets/imgs/firebase.svg"/>
- <img style="margin-left:9px" height="60" alt="Google Cloud" src="assets/imgs/google-cloud.svg"/>
- <img style="margin-left:9px" height="60" alt="Spring" src="assets/imgs/spring.svg"/>
-</p>
+<tr align="center">
+<td>Jest</td>
+<td>Detox</td>
+<td>Mocha</td>
+<td>Chai</td>
+<td>Postman</td>
+<td>Insomnia</td>
+</tr>
 
-### Tools
+<tr align="center">
+<td height="50px"><img width="32px" src="./assets/imgs/jest.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/detox.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/mocha.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/chai.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/postman.svg"></td>
+<td height="50px"><img width="32px" src="./assets/imgs/insomnia.svg"></td>
+</tr>
 
-<p float="left">
-  <img height="60" alt="VSCode" src="assets/imgs/vscode.svg"/>
-  <img style="margin-left:9px" height="60" alt="Git" src="assets/imgs/git.svg"/>
-  <img style="margin-left:9px" height="60" alt="ESLint" src="assets/imgs/eslint.png"/>
-  <img style="margin-left:9px" height="60" alt="Expo" src="assets/imgs/expo.svg"/>
-  <img style="margin-left:9px" height="35" alt="Mongoose" src="assets/imgs/mongoose.png"/>
-  <img style="margin-left:9px" height="60" alt="Redux" src="assets/imgs/redux.svg"/>
-  <img style="margin-left:9px" height="60" alt="express" src="assets/imgs/express.svg"/>
-</p>
+<tr align="center">
+<td>Thunder Client</td>
+</tr>
 
-### Testing
+<tr align="center">
+<td height="50px"><img width="32px" src="./assets/imgs/thunder-client.svg"></td>
+</tr>
 
-<p float="left">
-  <img height="60" alt="Jest" src="assets/imgs/jest.svg"/>
-  <img style="margin-left:9px" height="60" alt="Detox" src="assets/imgs/detox.png"/>
-  <img style="margin-left:9px" height="60" alt="React-Native-Testing-Library" src="assets/imgs/react-native-testing-library.png"/>
-  <img style="margin-left:9px" height="60" alt="Mocha" src="assets/imgs/mocha.svg"/>
-  <img style="margin-left:9px" height="60" alt="Chai" src="assets/imgs/chai.png"/>
-</p>
-<br/>
-
-## Currently learning
-
-<p float="left">
-  <img style="margin-left:9px" height="60" alt="TypeScript" src="assets/imgs/typescript.svg"/>
-  <img style="margin-left:9px" height="60" alt="NextJS" src="assets/imgs/nextjs.svg"/>
-  <img style="margin-left:9px" height="60" alt="Electron" src="assets/imgs/electron.svg"/>
-  <img style="margin-left:9px" height="60" alt="Chai" src="assets/imgs/github-actions.png"/>
-</p>
-
-<br/>
-
-## Interest in learning
-
-<p float="left">
-  <img style="margin-left:9px" height="60" alt="Julia" src="assets/imgs/julia.svg"/>
-  <img style="margin-left:9px" height="60" alt="Sass" src="assets/imgs/sass.svg"/>
-</p>
+</table>
 
 </div>
