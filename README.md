@@ -6,6 +6,8 @@
 
 <br/>
 
+<h3>About me</h3>
+
 <p float="left">
 
 - 🕸️ | Web dev with React & Next.js
