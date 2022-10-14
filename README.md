@@ -2,6 +2,28 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itispx&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+</div>
+
+<br/>
+
+<p float="left">
+
+- 🕸️ | Web dev with React & Next.js
+
+- 📱 | Mobile dev with React Native & Expo
+
+- 💻 | Code Editor: VSCode
+
+- 📋 | ESLint & Prettier are my best friends
+
+</p>
+
+<br/>
+
+<div align="center">
+
+---
+
 <table>
 
 <tr align="center">
@@ -85,5 +107,15 @@
 </tr>
 
 </table>
+
+---
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Email Badge](https://img.shields.io/badge/-guilhermeciotapx@outlook.com-4361EE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeciotapx@outlook.com)](mailto:guilhermeciotapx@outlook.com)
 
 </div>
