@@ -38,12 +38,12 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img alt="typescript" width="32px" src="./assets/imgs/typescript.svg"></td>
-<td height="50px"><img alt="javascript" width="32px" src="./assets/imgs/javascript.svg"></td>
-<td height="50px"><img alt="java" width="32px" src="./assets/imgs/java.svg"></td>
-<td height="50px"><img alt="react" width="32px" src="./assets/imgs/react.svg"></td>
-<td height="50px"><img alt="react" width="32px" src="./assets/imgs/react.svg"></td>
-<td height="50px"><img alt="expo" width="32px" src="./assets/imgs/expo.svg"></td>
+<td height="50px"><img alt="typescript" width="32px" src="./assets/svgs/typescript.svg"></td>
+<td height="50px"><img alt="javascript" width="32px" src="./assets/svgs/javascript.svg"></td>
+<td height="50px"><img alt="java" width="32px" src="./assets/svgs/java.svg"></td>
+<td height="50px"><img alt="react" width="32px" src="./assets/svgs/react.svg"></td>
+<td height="50px"><img alt="react" width="32px" src="./assets/svgs/react.svg"></td>
+<td height="50px"><img alt="expo" width="32px" src="./assets/svgs/expo.svg"></td>
 </tr>
 
 <tr align="center">
@@ -56,12 +56,12 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img alt="android" width="32px" src="./assets/imgs/android.svg"></td>
-<td height="50px"><img alt="nodejs" width="32px" src="./assets/imgs/nodejs.svg"></td>
-<td height="50px"><img alt="mongoDB" width="32px" src="./assets/imgs/mongoDB.svg"></td>
-<td height="50px"><img alt="mysql" width="32px" src="./assets/imgs/mysql.svg"></td>
-<td height="50px"><img alt="firebase" width="32px" src="./assets/imgs/firebase.svg"></td>
-<td height="50px"><img alt="spring" width="32px" src="./assets/imgs/spring.svg"></td>
+<td height="50px"><img alt="android" width="32px" src="./assets/svgs/android.svg"></td>
+<td height="50px"><img alt="nodejs" width="32px" src="./assets/svgs/nodejs.svg"></td>
+<td height="50px"><img alt="mongoDB" width="32px" src="./assets/svgs/mongoDB.svg"></td>
+<td height="50px"><img alt="mysql" width="32px" src="./assets/svgs/mysql.svg"></td>
+<td height="50px"><img alt="firebase" width="32px" src="./assets/svgs/firebase.svg"></td>
+<td height="50px"><img alt="spring" width="32px" src="./assets/svgs/spring.svg"></td>
 </tr>
 
 <tr align="center">
@@ -74,12 +74,12 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img alt="git" width="32px" src="./assets/imgs/git.svg"></td>
-<td height="50px"><img alt="eslint" width="32px" src="./assets/imgs/eslint.svg"></td>
-<td height="50px"><img alt="redux" width="32px" src="./assets/imgs/redux.svg"></td>
-<td height="50px"><img alt="express" width="32px" src="./assets/imgs/express.svg"></td>
-<td height="50px"><img alt="nextjs" width="32px" src="./assets/imgs/nextjs.svg"></td>
-<td height="50px"><img alt="sass" width="32px" src="./assets/imgs/sass.svg"></td>
+<td height="50px"><img alt="git" width="32px" src="./assets/svgs/git.svg"></td>
+<td height="50px"><img alt="eslint" width="32px" src="./assets/svgs/eslint.svg"></td>
+<td height="50px"><img alt="redux" width="32px" src="./assets/svgs/redux.svg"></td>
+<td height="50px"><img alt="express" width="32px" src="./assets/svgs/express.svg"></td>
+<td height="50px"><img alt="nextjs" width="32px" src="./assets/svgs/nextjs.svg"></td>
+<td height="50px"><img alt="sass" width="32px" src="./assets/svgs/sass.svg"></td>
 </tr>
 
 <tr align="center">
@@ -92,12 +92,12 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img alt="jest" width="32px" src="./assets/imgs/jest.svg"></td>
-<td height="50px"><img alt="detox" width="32px" src="./assets/imgs/detox.svg"></td>
-<td height="50px"><img alt="mocha" width="32px" src="./assets/imgs/mocha.svg"></td>
-<td height="50px"><img alt="chai" width="32px" src="./assets/imgs/chai.svg"></td>
-<td height="50px"><img alt="postman" width="32px" src="./assets/imgs/postman.svg"></td>
-<td height="50px"><img alt="insomnia" width="32px" src="./assets/imgs/insomnia.svg"></td>
+<td height="50px"><img alt="jest" width="32px" src="./assets/svgs/jest.svg"></td>
+<td height="50px"><img alt="detox" width="32px" src="./assets/svgs/detox.svg"></td>
+<td height="50px"><img alt="mocha" width="32px" src="./assets/svgs/mocha.svg"></td>
+<td height="50px"><img alt="chai" width="32px" src="./assets/svgs/chai.svg"></td>
+<td height="50px"><img alt="postman" width="32px" src="./assets/svgs/postman.svg"></td>
+<td height="50px"><img alt="insomnia" width="32px" src="./assets/svgs/insomnia.svg"></td>
 </tr>
 
 <tr align="center">
@@ -105,7 +105,7 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img width="32px" src="./assets/imgs/thunder-client.svg"></td>
+<td height="50px"><img width="32px" src="./assets/svgs/thunder-client.svg"></td>
 </tr>
 
 </table>
