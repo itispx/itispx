@@ -38,12 +38,12 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img width="32px" src="./assets/imgs/typescript.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/javascript.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/java.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/react.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/react.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/expo.svg"></td>
+<td height="50px"><img alt="typescript" width="32px" src="./assets/imgs/typescript.svg"></td>
+<td height="50px"><img alt="javascript" width="32px" src="./assets/imgs/javascript.svg"></td>
+<td height="50px"><img alt="java" width="32px" src="./assets/imgs/java.svg"></td>
+<td height="50px"><img alt="react" width="32px" src="./assets/imgs/react.svg"></td>
+<td height="50px"><img alt="react" width="32px" src="./assets/imgs/react.svg"></td>
+<td height="50px"><img alt="expo" width="32px" src="./assets/imgs/expo.svg"></td>
 </tr>
 
 <tr align="center">
@@ -56,16 +56,16 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img width="32px" src="./assets/imgs/android.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/nodejs.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/mongoDB.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/mysql.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/firebase.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/spring.svg"></td>
+<td height="50px"><img alt="android" width="32px" src="./assets/imgs/android.svg"></td>
+<td height="50px"><img alt="nodejs" width="32px" src="./assets/imgs/nodejs.svg"></td>
+<td height="50px"><img alt="mongoDB" width="32px" src="./assets/imgs/mongoDB.svg"></td>
+<td height="50px"><img alt="mysql" width="32px" src="./assets/imgs/mysql.svg"></td>
+<td height="50px"><img alt="firebase" width="32px" src="./assets/imgs/firebase.svg"></td>
+<td height="50px"><img alt="spring" width="32px" src="./assets/imgs/spring.svg"></td>
 </tr>
 
 <tr align="center">
-<td>Git</td>
+<td><a target="_blank" rel="noreferrer" href="https://itispx.github.io/git-cheat-sheet/">Git</a></td>
 <td>ESLint</td>
 <td>Redux</td>
 <td>Express</td>
@@ -74,12 +74,12 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img width="32px" src="./assets/imgs/git.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/eslint.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/redux.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/express.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/nextjs.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/sass.svg"></td>
+<td height="50px"><img alt="git" width="32px" src="./assets/imgs/git.svg"></td>
+<td height="50px"><img alt="eslint" width="32px" src="./assets/imgs/eslint.svg"></td>
+<td height="50px"><img alt="redux" width="32px" src="./assets/imgs/redux.svg"></td>
+<td height="50px"><img alt="express" width="32px" src="./assets/imgs/express.svg"></td>
+<td height="50px"><img alt="nextjs" width="32px" src="./assets/imgs/nextjs.svg"></td>
+<td height="50px"><img alt="sass" width="32px" src="./assets/imgs/sass.svg"></td>
 </tr>
 
 <tr align="center">
@@ -92,12 +92,12 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img width="32px" src="./assets/imgs/jest.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/detox.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/mocha.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/chai.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/postman.svg"></td>
-<td height="50px"><img width="32px" src="./assets/imgs/insomnia.svg"></td>
+<td height="50px"><img alt="jest" width="32px" src="./assets/imgs/jest.svg"></td>
+<td height="50px"><img alt="detox" width="32px" src="./assets/imgs/detox.svg"></td>
+<td height="50px"><img alt="mocha" width="32px" src="./assets/imgs/mocha.svg"></td>
+<td height="50px"><img alt="chai" width="32px" src="./assets/imgs/chai.svg"></td>
+<td height="50px"><img alt="postman" width="32px" src="./assets/imgs/postman.svg"></td>
+<td height="50px"><img alt="insomnia" width="32px" src="./assets/imgs/insomnia.svg"></td>
 </tr>
 
 <tr align="center">
