@@ -102,10 +102,12 @@
 
 <tr align="center">
 <td>Thunder Client</td>
+<td>Webpack</td>
 </tr>
 
 <tr align="center">
 <td height="50px"><img width="32px" src="./assets/svgs/thunder-client.svg"></td>
+<td height="50px"><img width="32px" src="./assets/svgs/webpack.svg"></td>
 </tr>
 
 </table>
