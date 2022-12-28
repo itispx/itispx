@@ -18,6 +18,8 @@
 
 - 📋 | ESLint & [Prettier](https://gist.github.com/itispx/f44821732bda322e988e4fbed146aa55) are my best friends
 
+- ⌨️ | wpm: ~100 - [My Typeracer Game](https://nitro-fueled-typeracer.vercel.app)
+
 </p>
 
 <br/>
