@@ -76,8 +76,7 @@
 </tr>
 
 <tr align="center">
-<td height="50px"><img alt="prisma" width="32px" src="https://raw.githubusercontent.com/itispx/assets/a566a8f36835a89004331ea6882673de17b8c62e/svgs/prisma.svg
-"></td>
+<td height="50px"><img alt="prisma" width="32px" src="https://raw.githubusercontent.com/itispx/assets/0d5c008190a27279b4e4afdbbec79f900ce79d4f/svgs/prisma.svg"></td>
 <td height="50px"><img alt="firebase" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/firebase.svg"></td>
 <td height="50px"><img alt="spring" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/spring.svg"></td>
 <td height="50px"><img alt="express" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/express.svg"></td>
@@ -105,28 +104,21 @@
 <tr align="center">
 <td>Mocha</td>
 <td>Chai</td>
-<td>Postman</td>
-<td>Insomnia</td>
-<td>Thunder Client</td>
 <td>Webpack</td>
+<td>Socket.IO</td>
+<td>RabbitMQ</td>
+<td>Docker</td>
+
 </tr>
 
 <tr align="center">
 <td height="50px"><img alt="mocha" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/mocha.svg"></td>
 <td height="50px"><img alt="chai" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/chai.svg"></td>
-<td height="50px"><img alt="postman" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/postman.svg"></td>
-<td height="50px"><img alt="insomnia" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/insomnia.svg"></td>
-<td height="50px"><img alt="thunder-client" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/thunder-client.svg"></td>
 <td height="50px"><img alt="webpack" width="32px" src="https://raw.githubusercontent.com/itispx/assets/dc816afd65e760d81800b337595dd7498f351119/svgs/webpack.svg"></td>
-
-</tr>
-
-<tr align="center">
-<td>Docker</td>
-</tr>
-
-<tr align="center">
+<td height="50px"><img alt="socket.io" width="32px" src="https://raw.githubusercontent.com/itispx/assets/0d5c008190a27279b4e4afdbbec79f900ce79d4f/svgs/socket-io.svg"></td>
+<td height="50px"><img alt="rabbitmq" width="32px" src="https://raw.githubusercontent.com/itispx/assets/0d5c008190a27279b4e4afdbbec79f900ce79d4f/svgs/rabbitmq.svg"></td>
 <td height="50px"><img alt="docker"  width="32px" src="https://raw.githubusercontent.com/itispx/assets/a566a8f36835a89004331ea6882673de17b8c62e/svgs/docker.svg"></td>
+</tr>
 </tr>
 
 </table>
