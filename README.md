@@ -121,6 +121,14 @@
 </tr>
 </tr>
 
+<tr align="center">
+<td>Zod</td>
+</tr>
+
+<tr align="center">
+<td height="50px"><img alt="zod" width="32px" src="https://raw.githubusercontent.com/itispx/assets/0fd248942dd32e625fb3fc3d7d19fa6353a30021/svgs/zod.svg"></td>
+</tr>
+
 </table>
 
 ---
