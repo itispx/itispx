@@ -1,7 +1,7 @@
 - 🌍 Location: RS, Brazil
 - 💼 Currently working at: [Crédito Real](https://www.linkedin.com/company/imoveiscreditoreal/)
 
-Backend Developer with experience in Go, AWS, and TypeScript. Specializes in building scalable, high-performance applications by leveraging AWS cloud solutions.
+Fullstack Developer with experience in Go, AWS, and TypeScript. Specializes in building scalable, high-performance applications by leveraging AWS cloud solutions.
 
 ## 🛠️ Tech Stack
 
