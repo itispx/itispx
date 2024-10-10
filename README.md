@@ -12,7 +12,6 @@ Here are the technologies I specialize in:
 - **Go**
 - **Typescript**:
 - **Next.js**
-- **React**
 - **React Native**
 
 ### Cloud & DevOps
