@@ -1,4 +1,5 @@
 - Never use the em dash "—". Use plain dash "-" instead
+- Never run any git command that changes state without asking me first and getting an explicit yes. This includes commit, add/stage, push, pull, fetch, merge, rebase, reset, revert, checkout/switch, branch, stash, tag, cherry-pick, and anything with --force or --hard. Read-only commands (status, diff, log, show, blame) are always fine without asking. Do not chain a state-changing git command onto the end of another task, and do not treat "I approved this before" as standing permission - ask every time. When you want to commit, stop and show me the exact command and the proposed message, then wait.
 - When writing commit messages, NEVER auto-add your agent name as co-author
 - When making technical decisions, do not give much weight to development cost. Instead, prefer quality, simplicity, robustness, scalability, and long term maintainability
 - When doing bug fixes, always start with reproducing the bug in an E2E setting as closely aligned with how an end user would encounter it. This makes sure you find the real problem so your fix will actually solve it.
